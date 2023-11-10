@@ -1,0 +1,6 @@
+
+upython:S116"YRename this field "cantCeluAfectadas" to match the regular expression ^[_a-z][_a-z0-9]*$.(Œ©Êÿÿÿÿÿ
+fpython:S116"PRename this field "cantCelu" to match the regular expression ^[_a-z][_a-z0-9]*$.(èù·i
+kpython:S117"TRename this parameter "cantCelu" to match the regular expression ^[_a-z][a-z0-9_]*$.(çêøÌ
+cpython:S100"LRename method "estaSano" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÁŸ˜ÿ
+Bpython:S1481"%Remove the unused local variable "i".(»¾À¼üÿÿÿÿ
